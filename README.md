@@ -1,4 +1,5 @@
-### Hi there 👋
+![image](https://github.com/G2Kzin/G2Kzin/assets/140359342/917539f6-2d03-4186-ab55-dd020096a2b0)
+
 
 <!--
 **G2Kzin/G2Kzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
