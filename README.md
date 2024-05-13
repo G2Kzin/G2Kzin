@@ -1,4 +1,4 @@
-![image](https://github.com/G2Kzin/G2Kzin/assets/140359342/02e12b75-dc86-41eb-b9b6-5c5428c96c78)
+[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)
 
 
 
