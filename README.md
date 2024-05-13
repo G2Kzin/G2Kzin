@@ -1,4 +1,4 @@
-![image](https://github.com/G2Kzin/G2Kzin/assets/140359342/02e12b75-dc86-41eb-b9b6-5c5428c96c78)![image](https://github.com/G2Kzin/G2Kzin/assets/140359342/efe77c8e-11b3-4642-823a-227900e09e3c)
+![image](https://github.com/G2Kzin/G2Kzin/assets/140359342/02e12b75-dc86-41eb-b9b6-5c5428c96c78),![image](https://github.com/G2Kzin/G2Kzin/assets/140359342/efe77c8e-11b3-4642-823a-227900e09e3c),
 ![image](https://github.com/G2Kzin/G2Kzin/assets/140359342/e56439db-6d9f-4ce1-9236-b0b2b97629fc)
 
 
