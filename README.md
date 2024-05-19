@@ -9,3 +9,4 @@
   
 </div>
   
+![png-transparent-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle-computer-thumbnail](https://github.com/G2Kzin/G2Kzin/assets/140359342/b7090938-c77f-4ef9-8667-c1ebe0fe76bd)
