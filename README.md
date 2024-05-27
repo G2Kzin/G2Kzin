@@ -6,7 +6,7 @@
     <a href="https://www.instagram.com/064_feelipe.zl">Felipe </a>
   </h1>
 
-  ## E estou cursando Ciência da Computação.
+  bem vindo a meu Perfil
   
 </div>
 
