@@ -5,6 +5,8 @@
     Ola :wave:, Eu sou o 
     <a href="https://www.instagram.com/064_feelipe.zl">Felipe </a>
   </h1>
+
+  ## E estou cursando Ciência da Computação.
   
 </div>
 
