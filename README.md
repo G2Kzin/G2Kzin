@@ -1,5 +1,5 @@
 
-## **Olá, me chamo Felipe e estou cursando Ciência da Computação**
+## **Olá :wave:, me chamo Felipe e estou cursando Ciência da Computação**
 
 *Principais Linguagens*
 
