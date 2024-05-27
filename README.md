@@ -1,7 +1,7 @@
 
 ## **Olá, me chamo Felipe e estou cursando Ciência da Computação**
 
-Principais Linguagens
+*Principais Linguagens*
 
 <div align="left">
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
