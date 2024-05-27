@@ -1,5 +1,5 @@
 
-##6 Olá, me chamo Felipe e estou cursando Ciência da Computação
+#### Olá, me chamo Felipe e estou cursando Ciência da Computação
 
 Principais Linguagens
 
