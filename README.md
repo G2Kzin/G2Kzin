@@ -1,5 +1,13 @@
 
-## **Olá :wave:, me chamo Felipe e estou cursando Ciência da Computação**
+## <div>
+  
+  <h1 align="center">
+    Ola :wave:, Eu sou o 
+    <a href="https://www.instagram.com/064_feelipe.zl">Felipe </a>
+    e esse é meu repositório de POO em JAVA
+  </h1>
+  
+</div>
 
 *Principais Linguagens*
 
