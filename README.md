@@ -1,5 +1,5 @@
 
-<h2 align="left">Olá, me chamo Felipe e estou cursando Ciência da Computação</h2>
+## Olá, me chamo Felipe e estou cursando Ciência da Computação
 
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
